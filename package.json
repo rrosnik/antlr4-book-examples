@@ -1,0 +1,19 @@
+{
+  "name": "antlr4-book-examples",
+  "version": "0.0.0",
+  "description": "this repository is examples and projects and tests of \"The Definitive ANTLR 4 Reference\" book",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "antlr",
+    "language",
+    "typescript",
+    "grammar",
+    "lexer",
+    "book"
+  ],
+  "author": "RezaRostaminikoo <RezaRostaminikoo@gmail.com>",
+  "license": "ISC"
+}
