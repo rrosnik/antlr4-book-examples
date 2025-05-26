@@ -48,3 +48,13 @@ Feel free to explore, learn, and contribute!
 - Some advanced ANTLR4 features or plugins may not be available or fully compatible.
 
 Use ANTLR-ng if you are building TypeScript projects and want the latest features and best integration. Stick with ANTLR4 if you need support for other languages or require a mature, widely-used toolchain.
+
+## Code Completion with antlr4-c3
+
+[antlr4-c3](https://github.com/mike-lischke/antlr4-c3) is a powerful code completion engine for ANTLR4 grammars. It analyzes your grammar and parser state to provide intelligent suggestions for possible tokens or rules at a given position in the input. This is especially useful for building editor integrations, IDE plugins, or language servers that offer context-aware code completion for custom languages defined with ANTLR4.
+
+- **Language Support:** Works with any language target supported by ANTLR4, including JavaScript and TypeScript.
+- **Integration:** Can be used in web-based editors or desktop IDEs to enhance developer productivity.
+- **Usage:** Given a grammar and a partial input, antlr4-c3 computes valid next tokens or rules, helping users write syntactically correct code faster.
+
+This repository demonstrates how to use ANTLR-ng for grammar generation, but if you need advanced code completion features, consider integrating antlr4-c3 into your workflow.

@@ -1,4 +1,4 @@
-// Generated from src/starter/ArrayInit.g4 by ANTLR 4.13.2
+// Generated from g:/Thesis/programming/Test/src/starter/ArrayInit.g4 by ANTLR 4.13.2
 // noinspection ES6UnusedImports,JSUnusedGlobalSymbols,JSUnusedLocalSymbols
 import {
 	ATN,
